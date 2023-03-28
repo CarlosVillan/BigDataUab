@@ -10,8 +10,8 @@ Copiem el codi que ens dona l'API.
 import spotipy  
 from spotipy.oauth2 import SpotifyClientCredentials  
   
-SPOTIPY_CLIENT_ID='505774719970462ebaa6ce0e335bfbf2'  
-SPOTIPY_CLIENT_SECRET='e0a9519b19e6416a930b339ffcd27b5c'  
+SPOTIPY_CLIENT_ID='xxxx'  
+SPOTIPY_CLIENT_SECRET='xxxx'  
   
 auth_manager = SpotifyClientCredentials(SPOTIPY_CLIENT_ID,SPOTIPY_CLIENT_SECRET)  
 sp = spotipy.Spotify(auth_manager=auth_manager)  
@@ -32,8 +32,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials  
 import json  
   
-SPOTIPY_CLIENT_ID='505774719970462ebaa6ce0e335bfbf2'  
-SPOTIPY_CLIENT_SECRET='e0a9519b19e6416a930b339ffcd27b5c'  
+SPOTIPY_CLIENT_ID='xxxx'  
+SPOTIPY_CLIENT_SECRET='xxxx'  
   
 auth_manager = SpotifyClientCredentials(SPOTIPY_CLIENT_ID,SPOTIPY_CLIENT_SECRET)  
 sp = spotipy.Spotify(auth_manager=auth_manager)  
