@@ -45,7 +45,7 @@ import time
   
   
 now =datetime.datetime.now() #aquesta funció serveix per mostrar l'hora de petició  
-twitch = Twitch('8zxk8wqm5d94gp1gqgzjyx2i68ozau', '6io6kou7dmyi0m4h78054k3dy9qg4j') #Li dono les credencials  
+twitch = Twitch('xxxx', 'xxxx') #Li dono les credencials  
   
 llista_dataframes = [] #treiem aquest element de la llista perquè sino es maxacarà  
 cursor_dummy = None #Quan la api rep que el cursor es None sap que és la primera pàgina  
