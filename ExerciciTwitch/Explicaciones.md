@@ -7,7 +7,7 @@ Sería interesante conocer en un futuro estudio si este fenómeno de la Kings L
 
 ![1](https://user-images.githubusercontent.com/125611874/232340515-df5ee5b4-cbe0-470a-b2ed-3ff26e15dfe5.png)
 
-##2. ¿Cuáles son las categorías más vistas y en las que más horas de directo se han realizado?
+## 2. ¿Cuáles son las categorías más vistas y en las que más horas de directo se han realizado?
 
 Para acotar el círculo de categorías más vistas, he añadido un filtro en la que solamente se muestren aquellas categorías y juegos que pertenezcan al top 10 más vistos de la plataforma en febrero.
 Como podemos observar, Just Chatting es la principal categoría, puesto que, todos los streamers en algún momento de su directo tienen que pasar por esta categoría. Twitch obliga a que el streamer tenga que cambiar la categoría del directo para cada momento. Por lo tanto, cuando inician stream, principalmente hacen un poco de Just Chatting para esperar a la audiencia, responder preguntas y después arrancar con el contenido.
@@ -21,20 +21,20 @@ Otro dato sorprendente es que la categoría de Sports, la segunda más vista, ap
 
 ![2 1](https://user-images.githubusercontent.com/125611874/232340677-fdbb59ff-f449-48b6-87b4-284906ea6f09.png)
 
-##3. ¿Cómo han evolucionado (captura a captura) estas categorías a lo largo del mes?
+## 3. ¿Cómo han evolucionado (captura a captura) estas categorías a lo largo del mes?
 
 Las categorías han evolucionado de manera regular, a excepción de Minecraft y Sports que han sufrido ese boom provocado por lo mencionado en el primer gráfico. Todas, a excepción de las 3 más destacadas, no sufren ningún pico en febrero. Cada vez más los streamers se están dando cuenta de que los eventos especiales sufren un gran aumento de visitas, por lo que hay miedo en la plataforma que se extrapole todo a querer crear grandes eventos y perder la filosofía de nicho que había en los primeros años.
 
 ![3](https://user-images.githubusercontent.com/125611874/232340891-1d1a9da5-e3b7-4484-aa25-be3f0172974e.png)
 
-##4. ¿Cuál es la distribución de los streamers si los clasificamos por volúmenes de audiencia y horas realizadas?
+## 4. ¿Cuál es la distribución de los streamers si los clasificamos por volúmenes de audiencia y horas realizadas?
 
 Como viene siendo explicado en los anteriores gráficos, el principal ganador de este mes de febrero ha sido la Kings League, que con pocas horas de streaming ha logrado ser el líder en solitario de espectadores. Esto también viene provocado porque los streamers más destacados de Twitch hispanohablante forman parte de esta liga y suman fuerzas para que todas sus comunidades estén enganchadas al producto.
 Cambiando de tercio encontramos a 'Viviendoenlacalle' un streamer que suma más de 600 horas de directo en el mes de febrero, esto se produce porque es una persona que prácticamente no cierra directo nunca, se pasa stremeando su vida todo el tiempo, especialmente haciendo IRL's, una categoría en la que sale a la calle y hace vida normal pero grabándose. Ahora, en futuros estudios, podemos observar como en el mes de marzo y abril ese número puede aumentar porque se ha propuesto hacer una vuelta por Europa por etapas, y por supuesto, en directo.
 
 ![4](https://user-images.githubusercontent.com/125611874/232340961-cc2d6008-73c9-47ae-8a90-51c7f9ab73cf.png)
 
-##5. ¿Cuál ha sido la evolución (captura a captura) de la desviación estándar en el volúmen de espectadores? ¿En qué momentos las audiencias se encuentran más polarizadas y en qué momentos la distribución es más uniforme?
+## 5. ¿Cuál ha sido la evolución (captura a captura) de la desviación estándar en el volúmen de espectadores? ¿En qué momentos las audiencias se encuentran más polarizadas y en qué momentos la distribución es más uniforme?
 
 La desviación estándar es una medida estadística que se utiliza para medir la cantidad de dispersión o variabilidad de un conjunto de datos con respecto a su media. La desviación se mantiene estable hasta que llegan los directos dominicales de la Kings League, lo que hace subir el promedio de la misma. Su máximo punto de desviación se halla el día 26 de febrero a las 22:00, con el debut del ya mencionado, Ronaldinho Gaúcho. Los momentos más polarizados son los domingos, y la distribución se mantiene uniforme de lunes a sábado.
 
