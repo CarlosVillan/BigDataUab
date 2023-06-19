@@ -31,6 +31,7 @@ A continuació trobaràs els enllaços a tots els documents que completen amb el
 
 ------------------------------------------
 ## Exercicis entregables
+
 [Exercici 1 - Codi de Python
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Exercici%20Individual%201/Codigo.py)
 [Exercici 1 - Resultats i conclusions
