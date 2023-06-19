@@ -12,8 +12,8 @@
 [Classe 4 - API Twitch
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe4.md)
 
-[Classe 1 - Introducció a Python
-](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe1.md)
+[Classe 5 - Exercici Twitch
+](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe5.md)
 
 [Classe 1 - Introducció a Python
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe1.md)
