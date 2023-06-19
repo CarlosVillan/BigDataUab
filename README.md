@@ -9,8 +9,8 @@
 [Classe 3 - PANDAS
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe3.md)
 
-[Classe 1 - Introducció a Python
-](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe1.md)
+[Classe 4 - API Twitch
+](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe4.md)
 
 [Classe 1 - Introducció a Python
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe1.md)
