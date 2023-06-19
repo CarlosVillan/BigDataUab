@@ -7,6 +7,7 @@ Benvingut al meu repositori per a l'assignatura d'Anàlisi i Visualització de B
 A continuació trobaràs els enllaços a tots els documents que completen amb el temari i exercicis de l'assignatura.
 
 ------------------------------------------
+## Apunts
 [Classe 1 - Introducció a Python
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe1.md)
 
@@ -29,12 +30,12 @@ A continuació trobaràs els enllaços a tots els documents que completen amb el
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe7.md)
 
 ------------------------------------------
-
+## Exercicis entregables
 [Exercici 1 - Codi de Python
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Exercici%20Individual%201/Codigo.py)
 [Exercici 1 - Resultats i conclusions
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Exercici%20Individual%201/Explicaciones.md)
-
+--
 [Exercici 2 - Codi de Python
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Exercici%20Individual%202/Codigo.py)
 [Exercici 2 - Resultats i conclusions
