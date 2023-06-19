@@ -30,7 +30,7 @@ A continuació trobaràs els enllaços a tots els documents que completen amb el
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe7.md)
 
 ------------------------------------------
-##Exercicis entregables
+## Exercicis entregables
 -
 [Exercici 1 - Codi de Python
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Exercici%20Individual%202/Codigo.py)
