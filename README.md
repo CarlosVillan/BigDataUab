@@ -29,7 +29,7 @@ A continuació trobaràs els enllaços a tots els documents que completen amb el
 [Classe 7 - Exercicis amb l'API de Twitch
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe7.md)
 
-------------------------------------------
+
 ## Exercicis entregables
 
 [Exercici 1 - Codi de Python
