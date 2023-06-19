@@ -21,7 +21,7 @@
 [Classe 7 - Exercicis amb l'API de Twitch
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Apunts/Classe7.md)
 
-
+------------------------------------------
 
 [Exercici 1 - Codi de Python
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Exercici%20Individual%201/Codigo.py)
