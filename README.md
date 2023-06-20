@@ -45,4 +45,7 @@ A continuació trobaràs els enllaços a tots els documents que completen amb el
 [Exercici 2 - Resultats i conclusions
 ](https://github.com/CarlosVillan/BigDataUab/blob/main/Exercici%20Individual%202/Comentarios.md)
 
+[Exercici Grupal
+](https://ddc12300.github.io/)
+
 
