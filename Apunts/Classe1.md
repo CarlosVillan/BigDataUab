@@ -44,3 +44,55 @@ f 'XXX' davant de tot. La variable va en claudàtor {}
 noms = ['carlos','pau','alex','pol']  
 for nom in noms:  
     print(f'En {nom} no ha vingut') #Recorre tota la llista sense fer un for```
+
+
+ ## Obsidian
+Coses bàsiques del programa:
+#etiqueta #prova
+# Títol 1 (# )
+## Títol 2 (## )
+### Títol 3 (### )
+I així els que calguin.
+Text normal.
+```
+Això és un text de codi i s'ha d'obrir amb (```)
+```
+
+## Remember de Python
+### Cadena de text
+Hi ha problemes amb les cometes, no confondre-les.
+--> Utilitzar simples/dobles
+Els dos exemples són cadenes de text.
+``` "cadena de text" 'cadena de text' ```
+
+### Print
+--> Mostrar a pantalla el que sigui
+--> Cal separar amb comes els diferents tipus de coses:
+```"L'usuari", usuari, "té", likes, "likes."```
+
+### Números
+--> Integers: sense punt: 1
+--> Float: amb punt: 1.2
+--> Per passar de string a integer: int(numero_string)
+```Python
+for n in notas:  
+    nota_numerica = int(nota)
+```
+
+### Variables
+--> Text directament escrit amb un igual al final: nom_variable = 1
+--> Les variables es poden sobreescriure, la que mana és la última per ordre de lectura del text.
+
+### Funcions
+#### str
+--> Uneix diferents tipus de dades en un string:
+```frasestring = str"L'usuari "+usuari +"té" +likes +"likes."```
+
+### Comentaris
+--> Per fer comentaris utilitzar el hashtag (#)
+--> Les tres cometes creen un paragraf de comentari
+```
+"""Això és un comentari""" 
+# Això també és un comentari
+``` 
+
