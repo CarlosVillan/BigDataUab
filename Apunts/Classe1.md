@@ -43,7 +43,8 @@ f 'XXX' davant de tot. La variable va en claudàtor {}
 ```Python
 noms = ['carlos','pau','alex','pol']  
 for nom in noms:  
-    print(f'En {nom} no ha vingut') #Recorre tota la llista sense fer un for```
+    print(f'En {nom} no ha vingut') #Recorre tota la llista sense fer un for
+```
 
 
  ## Obsidian
