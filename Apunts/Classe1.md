@@ -53,7 +53,7 @@ Coses bàsiques del programa:
 # Títol 1 (# )
 ## Títol 2 (## )
 ### Títol 3 (### )
-I així els que calguin.
+I així seguidament.
 Text normal.
 ```
 Això és un text de codi i s'ha d'obrir amb (```)
