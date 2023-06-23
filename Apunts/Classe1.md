@@ -86,7 +86,6 @@ for n in notas:
 ### Funcions
 #### str
 --> Uneix diferents tipus de dades en un string:
-```frasestring = str"L'usuari "+usuari +"té" +likes +"likes."```
 
 ### Comentaris
 --> Per fer comentaris utilitzar el hashtag (#)
