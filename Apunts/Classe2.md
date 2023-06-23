@@ -1,3 +1,101 @@
+
+## Obsidian
+Coses bàsiques del programa:
+#etiqueta #prova
+# Títol 1 (# )
+## Títol 2 (## )
+### Títol 3 (### )
+I així els que calguin.
+Text normal.
+```
+Això és un text de codi i s'ha d'obrir amb (```)
+```
+
+## Remember de Python
+### Cadena de text
+Hi ha problemes amb les cometes, no confondre-les.
+--> Utilitzar simples/dobles
+Els dos exemples són cadenes de text.
+``` "cadena de text" 'cadena de text' ```
+
+### Print
+--> Mostrar a pantalla el que sigui
+--> Cal separar amb comes els diferents tipus de coses:
+```"L'usuari", usuari, "té", likes, "likes."```
+
+### Números
+--> Integers: sense punt: 1
+--> Float: amb punt: 1.2
+--> Per passar de string a integer: int(numero_string)
+```Python
+for n in notas:  
+    nota_numerica = int(nota)
+```
+
+### Variables
+--> Text directament escrit amb un igual al final: nom_variable = 1
+--> Les variables es poden sobreescriure, la que mana és la última per ordre de lectura del text.
+
+### Funcions
+#### str
+--> Uneix diferents tipus de dades en un string:
+```frasestring = str"L'usuari "+usuari +"té" +likes +"likes."```
+
+### Comentaris
+--> Per fer comentaris utilitzar el hashtag (#)
+--> Les tres cometes creen un paragraf de comentari
+```
+"""Això és un comentari""" 
+# Això també és un comentari
+``` 
+
+### Llistes
+Són elements que poden recollir un conjunt de dades de qualsevol tipus.
+``` llista_noms = [Marc, Pau, Adrià] ```
+També es poden fer llistes de llistes.
+```llista_tots_alumnes = [llista_noms, Maria, Pere, Paula]```
+Per afegir elements a les llistes .append o .extend
+```Python
+llista_noms = llista_noms.append(nou_nom)
+```
+
+# 21/02/2023: Bucles, funcions amb llistes i límits
+## Bucles For/If
+Volem analitzar tota una llista i classificar-la.
+```Python
+llista_noms = ["carme", "joan"]  #Aquesta llista ja la tenim
+  
+for nom in llista_noms:  #recorrem per a cada element de la llista i classifiquem
+    if nom == "joan":  
+        print(nom)  
+    else:  
+        print(nom + " no és en Joan")
+```
+
+Per fer més eficient el bucle, es pot utilitzar: f{nom}
+```Python
+llista_noms = ["carme", "joan"]  #Aquesta llista ja la tenim
+  
+for nom in llista_noms:   #recorrem per a cada element de la llista i classifiquem
+    if nom == "joan":  
+        print(nom)  
+    else:  
+        print(f"{nom} no és en Joan")
+```
+
+Si hi ha més condicions intermitges utilitzem: elif
+```Python
+numeros = [1,2,3,6,7,8,10,15]  #Aquesta llista ja la tenim
+  
+for n in numeros:  #recorrem per a cada element de la llista i classifiquem
+    if n<6:  
+        print(f"{n} és menor que 6") #si és menor de 6 fem això
+    elif n==6:  
+        print(f"{n} és igual que 6") #si no és l'anterior i és 6 fem això.
+    else:  
+        print(f"{n} és major que 6") #si no és cap de les anteriors, és major que 6
+```
+
 ## Llistes
 
 Exercicis amb llistes
